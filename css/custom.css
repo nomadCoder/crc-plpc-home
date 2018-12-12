@@ -1,0 +1,47 @@
+/*
+  Running Squiz Matrix
+  Developed by Squiz - http://www.squiz.net
+  Squiz, Squiz Matrix, MySource, MySource Matrix and Squiz.net are registered Trademarks of Squiz Pty Ltd
+  Page generated: 11 December 2018 11:45:06
+*/
+
+
+.header-title {
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.25rem;
+}
+
+.header-title h2 {
+    font-size: 1.5rem;
+}
+
+.welcome {
+    background-color: #0063A7;
+    color: white;
+    padding-top: 5px !important;
+}
+
+.welcome h1 {
+    font-size: 1.75rem;
+}
+
+.header {
+    height: 30px;
+}
+
+.eresources {
+    background-color: #A3B428;
+}
+
+.links {
+    background-color: #E99D51;
+}
+
+.card {
+    border: none;
+}
+
+.card img {
+    padding: 0 20px;
+}
